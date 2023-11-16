@@ -3,9 +3,9 @@
 
 - 🔭 Actualmente trabajo como **Supervisora ambiental**
 
-- 🌱 Estoy aprendiendo mas **acerca de herramientas para analizar datos**
+- 🌱 Estoy aprendiendo **acerca de herramientas para analizar datos**
 
-- 👯 Busco colaborar en **análisis de datos con Python**
+- 👯 Busco colaborar en **análisis de datos con Python y machine learning**
 
 - 💬 Pregùntame acerca de **Python, tableau.**
 
