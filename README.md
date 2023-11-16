@@ -11,7 +11,7 @@
 
 - 📫 Puedes contactarme en **andreacevedocar@gmail.com**
 
-- ⚡ Algo divertido **Me encanta bailar y aprender nuevos temas.**
+- ⚡ Algo divertido **me encanta bailar y aprender nuevos temas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
