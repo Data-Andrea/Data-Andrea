@@ -7,4 +7,4 @@ Actualmente me desempeño como supervisora ambiental, y deseo iniciar la transic
 
 Me siento orgullosa de haber decidido arriesgarme a aprender herramientas como Python, SQL y visualizaciòn de datos.
 
-
+postgresql python
