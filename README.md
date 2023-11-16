@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente trabajo como **Supervisora ambiental**
 
-- 🌱 Estoy aprendiendo **acerca de herramientas para analizar datos**
+- 🌱 Estoy aprendiendo mas **acerca de herramientas para analizar datos**
 
 - 👯 Busco colaborar en **análisis de datos con Python**
 
@@ -11,7 +11,7 @@
 
 - 📫 Puedes contactarme en **andreacevedocar@gmail.com**
 
-- ⚡ Algo divertido **me encanta bailar y aprender nuevos temas.**
+- ⚡ Algo divertido **Me encanta bailar y aprender nuevos temas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,5 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=data-andrea&show_icons=true&locale=en&layout=compact" alt="data-andrea" /></p>
 
 
